@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h2>Identitas</h2>
+    <h2>About Identitas</h2>
     <ul>
       <li>Nama : Zahrah Mawaddah</li>
       <li>NPM : 213510253</li>
